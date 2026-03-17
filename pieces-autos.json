@@ -5,7 +5,7 @@
         "prix": 60,
         "categorie": "Optiques",
         "description": "Ampoule LED de haute qualité",
-        "image": "./images/ampoule-led.png",
+        "image": "images/ampoule-led.png",
         "disponibilite": true
     },
     {
@@ -14,7 +14,7 @@
         "prix": 40,
         "categorie": "Freinage",
         "description": "Plaquettes de frein pour une performance optimale",
-        "image": "./images/plaquettes-frein.png",
+        "image": "images/plaquettes-frein.png",
         "disponibilite": true
     },
     {
@@ -23,7 +23,7 @@
         "prix": 5.49,
         "categorie": "Optiques",
         "description": "Ampoule pour éclairage de la boîte à gants",
-        "image": "./images/ampoule-gants.png",
+        "image": "images/ampoule-boite-a-gants.png",
         "disponibilite": true
     },
     {
@@ -32,7 +32,7 @@
         "prix": 9.60,
         "categorie": "Freinage",
         "description": "Liquide de frein pour un freinage efficace",
-        "image": "./images/liquide-frein.png",
+        "image": "images/liquide-frein.png",
         "disponibilite": true
     },
     {
@@ -41,7 +41,7 @@
         "prix": 29.10,
         "categorie": "Optiques",
         "description": "Balai d'essuie-glace pour un nettoyage optimal",
-        "image": "../assets/balai-essuie-glace.jpg",
+        "image": "images/balai-essuie-glace.png",
         "disponibilite": true
     }
 ]
